@@ -12,14 +12,14 @@ Open kOS Studio and show explore the configured and running `tutorial` image
 
 ### Download and install VS Code
 
-<a href="https://code.visualstudio.com/Download" target="_blank">Download VS Code here</a>
+<a target="_blank" href="https://code.visualstudio.com/Download" >Download VS Code here</a>
 
 
 ### Install NodeJS using nvm
 
 Go to the NVM website to get the download script
 
-<a href="https://github.com/nvm-sh/nvm" target="_blank">Visit the NVM Github Page</a>
+<a target="_blank" href="https://github.com/nvm-sh/nvm" >Visit the NVM Github Page</a>
 
 Run the install script using curl or wget
 
@@ -51,9 +51,9 @@ nvm alias default lts/hydrogen
 
 ### Setup npm to use GitHub Access Tokens
 
-<a href="https://www.kosdev.com/v0.1-SNAPSHOT/page/100152/access-tokens" target="_blank">Latest instructions to install GitHub Access Tokens</a>
+<a target="_blank" href="https://www.kosdev.com/v0.1-SNAPSHOT/page/100152/access-tokens">Latest instructions to install GitHub Access Tokens</a>
 
-<a href="https://www.kosdev.com/v0.1-SNAPSHOT/page/100152/access-tokens#for-react-developers" target="_blank">Configure NPM to use Access Tokens</a>
+<a target="_blank" href="https://www.kosdev.com/v0.1-SNAPSHOT/page/100152/access-tokens#for-react-developers">Configure NPM to use Access Tokens</a>
 
 
 ### Install the kOS UI CLI
